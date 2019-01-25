@@ -1,2 +1,2 @@
-# cgellel.github-io
+# cgellel.github.io
 github page
